@@ -1,6 +1,7 @@
 use std::env;
 
 #[derive(Debug)]
+
 struct Sizes {
     bytes: String,
     kilobytes: String,
